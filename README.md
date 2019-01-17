@@ -1,9 +1,5 @@
 # Mystery Word
 
-This programme is a simple game who the goal is to guess the mystery word.
+This programme is a simple game where the goal is to guess the mystery word.
 
-# Upturn
-
-- Option [-d PATH] for give specefic dictionnary
-- Option [-i] for give definition of the word when he is find.
-- Option [-c NB_CARA] for max caractere word
+The dictionary used by program is localize in `/usr/share/dict/words`.
